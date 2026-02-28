@@ -1,0 +1,4 @@
+{
+  "name": "Gemini Chat",
+  "description": "A modern, responsive chat interface for interacting with Google's Gemini AI models. Features real-time streaming responses, message history, and a clean UI built with React, TypeScript, and Tailwind CSS."
+}
